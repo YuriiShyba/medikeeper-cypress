@@ -14,6 +14,8 @@ Also, there is no account with Username: wrongUser and Password: 321@wrong
 
 • Test cases are stored in ```cypress/e2e``` folder.
 
+•Page Objects are stored in ```cypress/pages``` folder.
+
 # How to run
 
 ## 📌 Prerequisites
